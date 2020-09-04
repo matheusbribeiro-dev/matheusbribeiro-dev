@@ -3,7 +3,7 @@
 <!--
 **matheusbribeiro-dev/matheusbribeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![welcome](/welcome-github.png?raw=true)
+![welcome](welcome-github.png?raw=true)
 
 Here are some ideas to get you started:
 
